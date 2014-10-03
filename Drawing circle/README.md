@@ -14,11 +14,17 @@ put this code into your linker settings
 
 MinGW
 =====
-place 	headerfiles/GL/glut.h 
-into		MinGW/include/GL/
+place 
+	headerfiles/GL/glut.h 
+into 
+	MinGW/include/GL/ 
 
-place 	headerfiles/winlib/libglut32win.a
-into		MinGW/include/lib/
+place 
+	headerfiles/winlib/libglut32win.a 
+into 
+	MinGW/include/lib/ 
 
-place 	headerfiles/glut32.dll
-into		c:/Windows/System32
+place 
+	headerfiles/glut32.dll 
+into 
+	c:/Windows/System32 
