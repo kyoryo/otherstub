@@ -1,6 +1,0 @@
-# depslib dependency file v1.0
-1412366153 source:d:\tulisan\script\c++\drawing circle\main.cpp
-	<windows.h>
-	<GL/glut.h>
-	<cmath>
-

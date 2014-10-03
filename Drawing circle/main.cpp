@@ -33,7 +33,6 @@ void display()
     glColor3ub( 192, 203, 195 );
 
     /* draw */
-    //Torus2d( 2, 3, 20 );
     Torus2d( 2, 3, 80 );
 
     glutSwapBuffers();
