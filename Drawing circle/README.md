@@ -12,3 +12,13 @@ put this code into your linker settings
 	-lopengl32
 	-lglu32
 
+MinGW
+=====
+place 	headerfiles/GL/glut.h 
+into		MinGW/include/GL/
+
+place 	headerfiles/winlib/libglut32win.a
+into		MinGW/include/lib/
+
+place 	headerfiles/glut32.dll
+into		c:/Windows/System32
