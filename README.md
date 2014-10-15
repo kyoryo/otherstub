@@ -1,4 +1,4 @@
 otherstub
 =========
 
-other stuff from college study
+Piles of shit from college's studies.
